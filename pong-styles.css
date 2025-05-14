@@ -11,7 +11,7 @@ body {
 #game {
   margin: 4px;
   border: 2.5px solid black;
-  left: 5;
+  left: 0;
   position: absolute;
   background-image: url("raindrops.png.jpg");
   background-size: cover;
