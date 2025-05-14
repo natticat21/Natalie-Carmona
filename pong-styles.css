@@ -13,7 +13,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("raindrops.png");
+  background-image: url("raindrops.png.jpg");
   background-size: cover;
 }
 
