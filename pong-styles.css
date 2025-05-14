@@ -10,7 +10,7 @@ body {
 }
 #game {
   margin: 4px;
-  border: 5px solid black;
+  border: 2.5px solid black;
   left: 0;
   position: absolute;
   background-image: url("raindrops.png.jpg");
@@ -18,13 +18,13 @@ body {
 }
 
 #left-paddle {
-  background-color: yellow;
+  background-color: white;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: black;
+  background-color: white;
   right: 10px;
  
   
